@@ -12,6 +12,7 @@ export class AppComponent {
   students: Student[] = [
     {name: 'Luke', isJedi: true, temple: 'Coruscant'},
     {name: 'Leia', isJedi: false},
+    {name: 'Rafael Monteiro', isJedi: true, temple: 'RJC'},
     {name: 'Han Solo', isJedi: true, temple: 'Coruscant'}
   ]
 }
